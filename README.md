@@ -1,4 +1,4 @@
-# Script para arreglar problemas de sincronización en asus rog
+# Script para arreglar problemas de sincronización en asus
 Ocurre que a veces el Armoury Crate no sincroniza correctamente tu dispositivo asus y no te permite acceder a ciertas opciones, como cambiar la iluminación de tu teclado. Para esto he creado un script en powershell que elimina el fichero que da problemas.
 
 # ¿Cómo ejecutarlo?
